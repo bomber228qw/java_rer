@@ -8,7 +8,6 @@ public class ku{
         System.out.print("Введите число: ");
         for (int g = consolr.nextInt(); g<a; g++){
             if (a%3 == 0){
-                if (a%5 ==0)
             }
         }
     }
